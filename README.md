@@ -1,11 +1,10 @@
-# clickCart_ecommerce_web_app
-view deployed : https://sweater-cygnet.cyclic.app/
-
-It is built using MERN stack also used React-Redux.
-
 # clickCart - An Ecommerce Web App
 
 clickCart is a web application designed for ecommerce purposes. It offers a variety of features such as categories, size, filter based on size and colour, and arrival and price. It uses JWT for authentication and crypto-js for password encryption to ensure the security of user data. Additionally, clickCart utilizes a payment gateway from Stripe for seamless online transactions. The web app boasts an attractive and user-friendly UI, making shopping a breeze.
+
+view deployed : https://sweater-cygnet.cyclic.app/
+
+It is built using MERN stack also used React-Redux.
 
 ## Features
 
