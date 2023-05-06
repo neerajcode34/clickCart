@@ -1,8 +1,7 @@
 # clickCart_ecommerce_web_app
 view deployed : https://sweater-cygnet.cyclic.app/
 
-It is built using MERN stack also used React-Redux.![screencapture-sweater-cygnet-cyclic-app-2023-05-06-19_19_43](https://user-images.githubusercontent.com/109073148/236628717-7c4d13a5-3fef-4df0-ae03-c6fe17a79dd1.png)
-
+It is built using MERN stack also used React-Redux.
 
 # clickCart - An Ecommerce Web App
 
@@ -36,4 +35,5 @@ clickCart features a user-friendly UI that is both attractive and easy to naviga
 
 ## Conclusion
 
-In conclusion, clickCart is an excellent ecommerce web app that offers a variety of features to make shopping online easier and more enjoyable. With its attractive UI, secure authentication and payment gateway, and filtering options, clickCart is a must-try for anyone looking to shop online.
+In conclusion, clickCart is an excellent ecommerce web app that offers a variety of features to make shopping online easier and more enjoyable. With its attractive UI, secure authentication and payment gateway, and filtering options, clickCart is a must-try for anyone looking to shop online.![screencapture-sweater-cygnet-cyclic-app-2023-05-06-19_19_43](https://user-images.githubusercontent.com/109073148/236628999-faa33ce5-f242-425d-95ab-74062470f171.png)
+
