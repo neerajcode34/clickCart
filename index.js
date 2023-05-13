@@ -13,21 +13,17 @@ const path = require("path");
 
 dotenv.config();
 
-// mongoose.connect(process.env.MONGO_URL)
-//     .then(() => {
-//         console.log("DB connection successful");
-//         app.listen(process.env.PORT || 5002, () => {
-//             console.log('listening on port');
-//         });
-//     })
-//     .catch((err) => {
-//         console.log(err);
-//     });
+mongoose.connect(process.env.MONGO_URL)
+    .then(() => {
+        console.log("DB connection successful");
+        app.listen(process.env.PORT || 5002, () => {
+            console.log('listening on port');
+        });
+    })
+    .catch((err) => {
+        console.log(err);
+    });
 
-mongoose.connect('mongodb+srv://neerajkumarm345:neeraj@cluster0.2w1ea84.mongodb.net/test', {
-  useNewUrlParser: true,
-  useUnifiedTopology: true
-})
 
 
 app.use(cors()); // add cors middleware
