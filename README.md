@@ -2,7 +2,7 @@
 
 clickCart is a web application designed for ecommerce purposes. It offers a variety of features such as categories, size, filter based on size and colour, and arrival and price. It uses JWT for authentication and crypto-js for password encryption to ensure the security of user data. Additionally, clickCart utilizes a payment gateway from Stripe for seamless online transactions. The web app boasts an attractive and user-friendly UI, making shopping a breeze.
 
-view deployed :https://calm-jade-swordfish-tux.cyclic.app/
+view deployed : https://clickcart.onrender.com/
 
 It is built using MERN stack also used React-Redux.
 
